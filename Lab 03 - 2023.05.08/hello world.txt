@@ -1,0 +1,89 @@
+Lab 1
+
+
+** Print Hello world
+
+
+package com.mycompany.helloworld;
+
+public class Helloworld {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
+
+
+
+** Print your Name,batch number and degree program
+
+
+package com.mycompany.helloworld;
+
+public class Helloworld  {
+
+    public static void main(String[] args) 
+        
+    {
+        System.out.println("LAKSHIKA");
+        System.out.println("22.2");
+        System.out.println("MANGEMENT INFORMATION SYSTEM");
+    }
+}
+
+
+(\n) in java
+
+package com.mycompany.helloworld;
+
+public class Helloworld  {
+
+    public static void main(String[] args) 
+        
+    {
+        System.out.print("LAKSHIKA\n");
+        System.out.print("22.2\n");
+        System.out.print("MANGEMENT INFORMATION SYSTEM");
+    }
+}
+
+
+
+** 
+
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+   int a;
+   for(a=0;a<=4;a++)
+   {
+          printf ("Executing loop: %d \n",a);
+    }
+}
+
+
+
+** Command Prompt (apima compile eka hdla apima run krna eka)
+
+Microsoft Windows [Version 10.0.19045.2846]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\user>cd documents    (code ek thiyana path ekta yannaone ) cd command lap ek athule tyna fie ekak hoygnna(access)
+
+C:\Users\user\Documents>javac Helloworld.java  (java c is complile the code) .java - extention aniwryyai 
+
+C:\Users\user\Documents>java Helloworld      project name wtri denne 
+LAKSHIKA
+22.2
+MANGEMENT INFORMATION SYSTEM
+C:\Users\user\Documents>
+
+
+go to the command prompt (windows +R)
+
+
